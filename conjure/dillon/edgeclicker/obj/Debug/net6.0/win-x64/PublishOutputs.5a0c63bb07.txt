@@ -1,0 +1,11 @@
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/edgeclicker.exe
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/selenium-manager/linux/selenium-manager
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/selenium-manager/macos/selenium-manager
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/selenium-manager/windows/selenium-manager.exe
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/edgeclicker.dll
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/edgeclicker.deps.json
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/edgeclicker.runtimeconfig.json
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/edgeclicker.pdb
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/Newtonsoft.Json.dll
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/WebDriver.dll
+/home/conjureadmin/dillon/edgeclicker/bin/Debug/net6.0/win-x64/publish/YamlDotNet.dll

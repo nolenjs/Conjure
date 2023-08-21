@@ -1,0 +1,16 @@
+# Ignore files that Conjure doesn't need to run or files automatically 
+# downloaded after running Conjure/"npm install" command/etc.
+conjure/dillon/.test.cpp.swp
+conjure/dillon/hello**
+conjure/dillon/**.zip
+conjure/dillon/edgeclicker/obj/Debug/net6.0/edgeclicker.assets.cache
+conjure/dillon/project/obj/Debug/net6.0/project.assets.cache
+
+**/__pycache__
+conjure/**/__pycache__
+conjure/extension/
+
+conjure/PowerShell/testr
+
+dillon/clicker/obj/Debug
+dillon/elliot/obj/Debug

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2zH3CcaOPoN3C+rt3w2wPgKWCQqtxBsTD6s2Lo/OElv37FSgPDRurGaGgIgYQblvAC8EpQD+HyPkA2KgkA7Lw==",
+  "success": true,
+  "projectFilePath": "/home/conjureadmin/dillon/project/project.csproj",
+  "expectedPackageFiles": [
+    "/home/conjureadmin/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/conjureadmin/.nuget/packages/selenium.webdriver/4.10.0/selenium.webdriver.4.10.0.nupkg.sha512",
+    "/home/conjureadmin/.nuget/packages/yamldotnet/13.1.0/yamldotnet.13.1.0.nupkg.sha512",
+    "/home/conjureadmin/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.18/microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

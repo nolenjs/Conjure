@@ -1,0 +1,11 @@
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/project.exe
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/selenium-manager/linux/selenium-manager
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/selenium-manager/macos/selenium-manager
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/selenium-manager/windows/selenium-manager.exe
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/project.dll
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/project.deps.json
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/project.runtimeconfig.json
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/project.pdb
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/Newtonsoft.Json.dll
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/WebDriver.dll
+/home/conjureadmin/dillon/project/bin/Debug/net6.0/win-x64/publish/YamlDotNet.dll

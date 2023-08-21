@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "91Rjgqffw7x8UMuZsE/4a6u/H47ZwvlH6UDWX5ULCmOoGPaJt5D3oN0JwrYu56Vykc+LfCvHUCIkWPtl2NnxXA==",
+  "success": true,
+  "projectFilePath": "/home/conjureadmin/conjure/dillon/elliot/elliot.csproj",
+  "expectedPackageFiles": [
+    "/home/conjureadmin/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.18/microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+netflix.com
+amazon.com
+hulu.com
+yahoo.com
+ebay.com
+wikipedia.com
+google.com
+youtube.com
+
